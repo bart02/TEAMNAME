@@ -5,9 +5,9 @@ import time
 video = 'videos/outpy1.avi'
 cap = cv.VideoCapture(video)
 
-sezd = cv.imread("images/sezd.png")
+sezd = cv.imread("images/obezd.png")
 parking = cv.imread("images/parking.png")
-forvard = cv.imread("images/forvard.png")
+forvard = cv.imread("images/forward.png")
 right = cv.imread("images/right.png")
 left = cv.imread("images/left.png")
 sezd = cv.resize(sezd, (64, 64))

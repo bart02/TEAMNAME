@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_3</folder>
+	<filename>190.jpg</filename>
+	<path>/home/viktor/RRO_2020/TEAMNAME/znaki/data_3/190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>99</width>
+		<height>90</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>19</ymin>
+			<xmax>99</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>
