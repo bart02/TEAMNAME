@@ -1,9 +1,9 @@
 import cv2
 import dlib
 import time
-model_detector = dlib.simple_object_detector("tld.swm")
+model_detector = dlib.simple_object_detector("tld_forward.swm")
 
-video = 'videos/outpy2.avi'
+video = 'videos/outpy.avi'
 cap = cv2.VideoCapture(video)
 
 while (True):

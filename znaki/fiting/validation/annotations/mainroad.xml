@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mainroad.png</filename>
+	<path>/home/viktor/RRO_2020/TEAMNAME/znaki/images/mainroad.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>96</width>
+		<height>90</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mainroad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>15</ymin>
+			<xmax>80</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

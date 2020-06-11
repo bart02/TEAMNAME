@@ -152,8 +152,8 @@ while True:
     command(s, grad, 1, 15)
 
     #cv2.imshow('pers', perspective)
-    #cv2.imshow('im', img)
-    # stream(img)
+    #cv2.imshow('im', train)
+    # stream(train)
 
     sleep(0.05)
     q = cv2.waitKey(10)

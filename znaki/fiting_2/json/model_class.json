@@ -1,0 +1,11 @@
+{
+    "0" : "forward",
+    "1" : "left",
+    "2" : "mainway",
+    "3" : "obezd",
+    "4" : "parking",
+    "5" : "right",
+    "6" : "stop",
+    "7" : "ustupi",
+    "8" : "zebra"
+}
